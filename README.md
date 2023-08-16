@@ -6,4 +6,8 @@
 
 sudo apt search programa
 
+
 ```
+
+>
+Novas Ideias 
